@@ -45,6 +45,8 @@ There have been hardware issues caused by unlocking the bootloader, but these ha
 
 As of September 2025, Galaxy Z Fold 5 also has a camera issue after unlocking the bootloader. After analyzing it, we found out it is a "Security Mechanism" to prevent the user from "taking photos" once they unlock the bootloader by providing a "black screen" in the viewfinder. (Fixable by re-locking the bootloader)
 
+Some devices, such as the Galaxy Tab S6 Lite, require an internet connection before the bootloader can be unlocked.
+
 ---
 
 🔶 As of October 2025, all budget phones that have **Helio G99**, **Dimensity 6100+**, and **Dimensity 6300** have **serious connectivity and unfixable bootloop issues** after unlocking the bootloader and flashing a custom binary which "trips Knox".
